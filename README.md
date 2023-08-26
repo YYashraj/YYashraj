@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am new here. Looking forward to contributing to open source projects and collaborating with people over GitHub.
+
 <!--
 **YYashraj/YYashraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
