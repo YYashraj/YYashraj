@@ -50,6 +50,7 @@ I am an aspiring Software Engineer, and an Algorithms and Systems Programming en
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraj-deshmukh-3b0086248/)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deshmukhyashraj@iitgn.ac.in)
+[![Static Badge](https://img.shields.io/badge/R%C3%A9sum%C3%A9%20-%20CV?style=for-the-badge&logo=readdotcv&color=%23159e03)](https://drive.google.com/file/d/1jk_BVIvA4cFjwH6PuHk1Abw9eVLT4Haw/view)
 
 <!--
 **YYashraj/YYashraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
